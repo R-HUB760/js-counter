@@ -1,5 +1,5 @@
 body{
-  min-height: 728px;
+  min-height: 100vh;
   box-sizing: border-box;
   display: grid;
   justify-content: center;
