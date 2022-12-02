@@ -1,6 +1,4 @@
-.container{
-  min-height: 100vh;
+body{
+  min-height: 90vh;
   box-sizing: border-box;
-  justify-content: center;
-  align-items: center;
 }
