@@ -1,0 +1,7 @@
+body{
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
